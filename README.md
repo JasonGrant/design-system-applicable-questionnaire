@@ -6,7 +6,9 @@ A questionnaire for deciding if a design system is relevant to the needs of your
 
 ## Is a Design System relevant to my organization?
 
-### Does your organization understand that a Design System is a complex product that needs planning, new features, bug fixes and user feedback mechanisms?
+### Does your organization understand that a Design System is a complex product? 
+
+###### One that includes a typical product team responsible for planning, prioritization, new features, bug fixes and user feedback mechanisms?
 
 **Yes**, 
 
